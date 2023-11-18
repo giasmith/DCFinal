@@ -1,4 +1,4 @@
-# Stock Price Predicting Project
+# Stock Price Predicting
 This project leverages advanced machine learning techniques to predict future stock prices.
 
 ## [Data](/Data)
