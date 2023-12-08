@@ -5,9 +5,14 @@ This project leverages advanced machine learning techniques to predict future st
 The dataset used for this project uses the earliest data points of [Coca-Cola (KO)](/Data/KO.csv) stock market price. 
 
 ## [Models](/Models)
-We've implemented machine learning models like Random Forest and Neural Networks for accurate predictions.
+We've implemented a variety of machine learning models from PySpark's MLlib:
 
-## Literature Review
-The following are links to materials and papers for literature review. 
+- Linear Regression
+- Support Vector Machines (SVM)
+- Naïve Bayes
+- Gradient-boosted Trees
+- Random Forest (Decision Trees)
 
-## Citations
+## References:
+
+The following are links to materials and papers for literature review:
