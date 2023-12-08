@@ -1,5 +1,5 @@
 # Stock Price Predicting
-This project leverages advanced machine learning techniques to predict future stock prices.
+This project leverages advanced machine learning techniques to predict stock price movement.
 
 ## [Data](/Data)
 The dataset used for this project uses the earliest data points of [Coca-Cola (KO)](/Data/KO.csv) stock market price. 
