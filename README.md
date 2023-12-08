@@ -19,7 +19,7 @@ The following are links to materials and papers for literature review:
 
 1. B. . F. N. n. Yahoo Finance—Stock Market Live, Quotes. (2023) The coca-cola company (ko). [Online]. Available: https://finance.yahoo.com/quotes/KO/
   
-2. Hegazy, O., Soliman, O. S., \& Salam, M. A. (2014). A machine learning model for stock market prediction. arXiv preprint arXiv:1402.7351.
+2. Hegazy, O., Soliman, O. S., \& Salam, M. A. (2014). A machine learning model for stock market prediction. arXiv preprint arXiv:1402.7351. https://arxiv.org/abs/1402.7351
 
 3. Joseph, E., Mishra, A., \& Rabiu, I. (2019). Forecast on close stock market prediction using support vector machine (SVM). International Journal of Engineering Research and, 8(02)
 
